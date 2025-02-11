@@ -38,7 +38,4 @@ This project implements a **Japanese Nonogram Solver** using **Constraint Satisf
 
 This project successfully applies CSP and heuristic techniques to solve nonograms efficiently. Future improvements could involve **optimizing heuristics** and **exploring deep learning approaches** for solving more complex puzzles.
 
----
-
-Let me know if you need any modifications! 🚀
 
